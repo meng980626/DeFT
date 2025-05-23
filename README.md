@@ -1,4 +1,4 @@
-# DeCK
+# DeFT
 ## Setup the environment
 To install Pytorch: 
 
@@ -22,8 +22,8 @@ Compile Pytorch:
 
 `python setup.py install`
 
-## Use DeCK
-You need to replace several files in pytorch and recompile it to apply DeCK. We provide these files and usage methods in "/torch" directory. See README.md in "/torch".
+## Use DeFT
+You need to replace several files in pytorch and recompile it to apply DeFT. We provide these files and usage methods in "/torch" directory. See README.md in "/torch".
 
 ## Other modules
 We currently provide the code for the DeCK core part, i.e. the scheduler module, and the rest of the code of other modules will be released in the future.
